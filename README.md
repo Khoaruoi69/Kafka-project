@@ -1,4 +1,4 @@
-# Kafka-project
+# Kafka-project (JMaster.io)
 Kafka
 Kafka là một hệ thống phân phối dữ liệu mã nguồn mở được phát triển bởi Apache Software Foundation. Nó cho phép các ứng dụng của bạn gửi và xử lý lượng lớn các thông tin thời gian thực một cách hiệu quả. Kafka được thiết kế để xử lý lưu lượng dữ liệu lớn và giải quyết vấn đề về việc xử lý một lượng lớn các thông tin trong thời gian ngắn. Kafka được sử dụng rộng rãi trong các ứng dụng Big Data như lưu trữ trực tuyến, phân tích dữ liệu, xử lý sự kiện.
 
